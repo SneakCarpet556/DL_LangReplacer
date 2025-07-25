@@ -1,0 +1,2 @@
+*.csb filter=lfs diff=lfs merge=lfs -text
+*.spb filter=lfs diff=lfs merge=lfs -text
